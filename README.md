@@ -3,12 +3,15 @@
 
 Modular-GenAI is a library designed for Generative AI (GenAI) research. Our goal is to provide a flexible, clean and easy-to-use set of components that can be combined in various ways to enable experimentation with different generative AI algorithms. The repository includes both PyTorch and Jax implementations of the algorithms.
 
+### **Current Work**
+We are currently focusing on fine-tuning and search algorithms to improve reasoning and long-term planning in large language models.
 
 ### **Transformers**
 
 | Transformers |  <img src="https://raw.githubusercontent.com/google/jax/main/images/jax_logo_250px.png" width = 64px alt="logo"></img> | <img src="https://pytorch.org/assets/images/pytorch-logo.png" width = 50px  height = 50px alt="logo"></img> |
 |:-----:|:---------:|:---------:|
 |**LLM Transformers**| | |
+|  DeepSeek v3  |:x:|:x:|
 |  Mistral  |:x:|:x:|
 |  Llama v3.2  |:x:|:x:|
 |  Llama v2  |:x:|:heavy_check_mark:|
